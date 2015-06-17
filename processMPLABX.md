@@ -18,9 +18,9 @@ Expand it & you’ll find sub-folders pointing to the different directories.
 (relative path from FreeRTOS folder is given) : 
   * **FreeRTOS -> Source**
   * **FreeRTOS -> Source -> include**
-  Click apply and then OK.
+Click apply and then OK.
 10. Right click on ‘header files’ folder in project pane -> Add Existing Items & include following files
-(relative path from FreeRTOS v8.x.x folder is given):
+(relative path from FreeRTOS folder is given):
   * **FreeRTOS -> Source -> include**
     1. croutine.h
     2. FreeRTOS.h
